@@ -79,7 +79,7 @@ function celsiusToFahrenheit(arrayOfNumbers) {
     result.push(Math.trunc(toFahrenheit))
     };
     
-    return result;
+    return result ;
 }
 
 assignment.celsiusToFahrenheit = celsiusToFahrenheit;
